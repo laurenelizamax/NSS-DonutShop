@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(206, 137, 149);
+    text-align: center;
+}
+#donutContainer {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgb(19, 176, 139);
+  max-width: 50%;
+}
+.pic {
+    width: 100%;
+    height: auto;
+}
+
+
+  
